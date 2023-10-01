@@ -3,7 +3,7 @@
  1.Clone the Repository.<br>
  2.Open the index.html file on an IDE of your choice.<br>
  3.Open the website using a live server.<br>
- ## Look of the Website ##
+ ## Layout of the Website ##
  
 
 <img width="1512" alt="img1" src="https://github.com/tanisha0605/CaffeineCove/assets/144723509/8c0e7449-3a63-4b32-9c96-bcdcd5682829">
